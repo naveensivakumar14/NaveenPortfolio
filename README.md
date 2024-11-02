@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio -MERN
 
 ![Thumbnail](https://github.com/naveensivakumar14/myPortfolio-react/blob/main/public/myPortfolio.jpg)
 
